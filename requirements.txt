@@ -1,0 +1,8 @@
+langsmith
+langchain
+openai
+python-dotenv
+nest_asyncio
+pandas
+tiktoken
+rapidfuzz
